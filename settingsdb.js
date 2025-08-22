@@ -1,7 +1,7 @@
 // settingsdb.js
 const axios = require('axios');
 
-const BASE_URL = 'https://shriiy-default-rtdb.asia-southeast1.firebasedatabase.app';
+const BASE_URL = 'https://toge-md-v5-default-rtdb.firebaseio.com/';
 
 async function updateUserEnv(key, value, userId) {
   if (!userId) throw new Error("User ID missing");
