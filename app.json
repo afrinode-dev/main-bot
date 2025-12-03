@@ -1,0 +1,61 @@
+{
+  "env": {
+    "AUTO_VIEW_STATUS": {
+      "value": "true"
+    },
+    "AUTO_LIKE_STATUS": {
+      "value": "true"
+    },
+    "AUTO_RECORDING": {
+      "value": "true"
+    },
+    "AUTO_LIKE_EMOJI": {
+      "value": "[\"🧩\", \"🍉\", \"💜\", \"🌸\", \"🪴\", \"💊\", \"💫\", \"🍂\", \"🌟\", \"🎋\", \"😶‍🌫️\", \"🫀\", \"🧿\", \"👀\", \"😘\", \"🚩\", \"🥰\", \"🗿\", \"💜\", \"💙\", \"🌝\", \"🖤\", \"💗\"]"
+    },
+    "PREFIX": {
+      "value": "."
+    },
+    "MAX_RETRIES": {
+      "value": "3"
+    },
+    "GROUP_INVITE_LINK": {
+      "value": "https://chat.whatsapp.com/J12ww3y4hmeEOGfhk4nYT6?mode=ems_copy_t"
+    },
+    "ADMIN_LIST_PATH": {
+      "value": "./admin.json"
+    },
+    "IMAGE_PATH": {
+      "value": "https://i.postimg.cc/QCvFcGXY/86701-F52-1-E26-4335-9-AF0-E48-C580337-EC.jpg"
+    },
+    "NEWSLETTER_JID": {
+      "value": "120363400431057294@newsletter"
+    },
+    "NEWSLETTER_MESSAGE_ID": {
+      "value": "428"
+    },
+    "OTP_EXPIRY": {
+      "value": "300000"
+    },
+    "NEWS_JSON_URL": {
+      "value": ""
+    },
+    "BOT_NAME": {
+      "value": "𝚃𝙾𝙶𝙴-𝙼𝙳 𝚅𝟻 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃"
+    },
+    "OWNER_NAME": {
+      "value": "𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸"
+    },
+    "OWNER_NUMBER": {
+      "value": "24102178283"
+    },
+    "BOT_VERSION": {
+      "value": "5.0.0"
+    },
+    "BOT_FOOTER": {
+      "value": "𝚃𝙾𝙶𝙴-𝙼𝙳 𝚅𝟻 𝙼𝙸𝙽𝙸 𝙱𝙾𝚃"
+    },
+    "CHANNEL_LINK": {
+      "value": "https://whatsapp.com/channel/0029Vb5T8ccIN9ir9iDb8O33"
+    }
+  }
+}
